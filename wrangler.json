@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "sentio-deploy",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "3ab9be54-abb6-4b15-99b6-a32fc7b4c388",
+			"database_name": "nexus-provenance"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
